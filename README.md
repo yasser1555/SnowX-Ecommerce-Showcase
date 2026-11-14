@@ -115,25 +115,25 @@ The gallery below uses screenshots of the project interface. Checkout and admini
 
 **Homepage — Arabic-first storefront**
 
-![SnowX homepage with Arabic hero section](screenshots/01-homepage.png)
+![SnowX homepage with Arabic hero section](SnowX_Showcase_Ready/screenshots/01-homepage.png)
 
 **Product Catalog — Browsing digital products**
 
-![SnowX product catalog](screenshots/02-product-catalog.png)
+![SnowX product catalog](SnowX_Showcase_Ready/screenshots/02-product-catalog.png)
 
 **Checkout — Cart summary and payment-method selection**
 
-![SnowX checkout interface, payment details excluded](screenshots/03-checkout.png)
+![SnowX checkout interface, payment details excluded](SnowX_Showcase_Ready/screenshots/03-checkout.png)
 
 ### Administration
 
 **Catalog and Inventory — Admin product management**
 
-![SnowX admin products table, account details excluded](screenshots/04-admin-products.png)
+![SnowX admin products table, account details excluded](SnowX_Showcase_Ready/screenshots/04-admin-products.png)
 
 **Orders — Admin dashboard overview**
 
-![SnowX orders summary and status overview, customer records excluded](screenshots/05-admin-orders-overview.png)
+![SnowX orders summary and status overview, customer records excluded](SnowX_Showcase_Ready/screenshots/05-admin-orders-overview.png)
 
 ## About This Repository
 
